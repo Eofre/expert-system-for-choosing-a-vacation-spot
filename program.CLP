@@ -4,8 +4,8 @@
 
 (deftemplate Vacation (slot vacation))
 (deftemplate Weather (slot weather))
-(deftemplate Active (slot active)) ; активный отдых?
-(deftemplate Relax (slot relax)) ; выбор отдыха?
+(deftemplate Active (slot active))
+(deftemplate Relax (slot relax)) 
 (deftemplate Instructor (slot instructor))
 (deftemplate Equipment (slot equipment))
 (deftemplate Route (slot route))
